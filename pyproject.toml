@@ -33,6 +33,7 @@ langchain-anthropic = "0.1.23"
 langchain-google-genai = "1.0.10"
 langchain-groq = "0.1.10"
 python-dotenv = "1.0.1"
+ipykernel = "^6.29.5"
 
 
 [tool.poetry.group.dev.dependencies]
